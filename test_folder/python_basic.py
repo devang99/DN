@@ -1,1 +1,1 @@
-print("Hello World ! Hope everything is going on great")
+print("Hope everything is going on great")
